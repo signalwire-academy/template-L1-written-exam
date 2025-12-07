@@ -1,8 +1,8 @@
 # Level 1: Written Exam
 
 **Time Limit:** 45 minutes  
-**Questions:** 20  
-**Passing Score:** 70%
+**Questions:** 30  
+**Passing Score:** 70% (21 correct)
 
 ## Instructions
 
